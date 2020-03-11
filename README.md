@@ -2,11 +2,11 @@
 c' est une traitement de donne dans facebook
 
 
-Install
-python3
-commitizen
+# Install
+  python3
+  commitizen
 
 
-recommendation 
-conventional commit
+# recommendation 
+  conventional commit
   =>http://conventionalcommits.org/
