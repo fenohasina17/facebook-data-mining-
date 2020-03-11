@@ -53,4 +53,4 @@ if __name__ == "__main__":
     if user_id:
         print '{0}:{1}:{2}'.format(fb_dtsg, user_id, xs)
     else:
-        print 'Login Failed'
+        print 'Login Failed login'
