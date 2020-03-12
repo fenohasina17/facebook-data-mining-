@@ -10,4 +10,5 @@ c' est une traitement de donne dans facebook
 # recommendation 
   conventional commit
   =>http://conventionalcommits.org/
-  Pep 20 =>https://www.python.org/dev/peps/pep-0020/
+
+  convention de code Pep 20 =>https://www.python.org/dev/peps/pep-0020/
